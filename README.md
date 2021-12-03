@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashank Shekhar Singh from India</h1>
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
+<p>A self-motivated, hard-working with problem-solving skills. A team player, eager to work with product-based organizations to enhance my skills. Deeply care about creating user-centric products.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank0194&label=Profile%20views&color=0e75b6&style=flat" alt="shashank0194" /> </p>
 
