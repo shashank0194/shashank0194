@@ -6,7 +6,7 @@
 - 🙂 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Learning Full Stack Web Development, MERN stack, Javascript and its frameworks <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at Masai Schook remotely.
 - 💼 &nbsp; I aspire to work as a full stack web developer.
-- 🌱 &nbsp; Learning more about AWS, Typscript.
+- 🌱 &nbsp; Learning more about AWS, Typescript.
 - 👯‍♂️ &nbsp;&nbsp;I’m looking to collaborate on javascript projects that involve react,redux and &nbsp;&nbsp;node and lot of learnings.<br>
 - 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am unable then surely we will together learn new things.
 <br/>
@@ -29,6 +29,8 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-236799?style=flat&logo=redux)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=materialui)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
 
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
