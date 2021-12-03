@@ -1,14 +1,18 @@
-<h1 align="center">Hi 👋, I'm Shashank Shekhar Singh from India</h1>
-h3> &nbsp;About Me </h3>  
+<h2> Hey there! 👋 I'm Shashank Shekhar Singh.</h2>
+:heart_eyes: Pronouns: He/His <br>       <div><img align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /></div>
+
+<h3> &nbsp;About Me </h3>   
 
 - 🙂 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Learning Full Stack Web Development, MERN stack, Javascript and its frameworks <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at Masai Schook remotely.
 - 💼 &nbsp; I aspire to work as a full stack web developer.
-- 🌱 &nbsp; Learning more about AWS, Mongodb, Python and Typscript.
+- 🌱 &nbsp; Learning more about AWS, Typscript.
 - 👯‍♂️ &nbsp;&nbsp;I’m looking to collaborate on javascript projects that involve react,redux and &nbsp;&nbsp;node and lot of learnings.<br>
 - 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am unable then surely we will together learn new things.
 <br/>
-- ⚡ Fun fact: Addicted to code, coffee and doing Sketch.:smile:
+
+⚡ Fun fact: Addicted to code, coffee and doing Sketch.:smile:
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank0194&label=Profile%20views&color=0e75b6&style=flat" alt="shashank0194" /> </p>
 
@@ -24,9 +28,11 @@ h3> &nbsp;About Me </h3>
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-236799?style=flat&logo=redux)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
