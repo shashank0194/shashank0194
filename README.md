@@ -1,22 +1,56 @@
 <h1 align="center">Hi 👋, I'm Shashank Shekhar Singh from India</h1>
-<h3 align="center">Aspiring Full Stack Web Developer</h3>
-<p align="center">A self-motivated, hard-working with problem-solving skills. A team player, eager to work with product-based organizations to enhance my skills. Deeply care about creating user-centric products.</p>
+h3> &nbsp;About Me </h3>  
+
+- 🙂 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Learning Full Stack Web Development, MERN stack, Javascript and its frameworks <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at Masai Schook remotely.
+- 💼 &nbsp; I aspire to work as a full stack web developer.
+- 🌱 &nbsp; Learning more about AWS, Mongodb, Python and Typscript.
+- 👯‍♂️ &nbsp;&nbsp;I’m looking to collaborate on javascript projects that involve react,redux and &nbsp;&nbsp;node and lot of learnings.<br>
+- 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am unable then surely we will together learn new things.
+<br/>
+- ⚡ Fun fact: Addicted to code, coffee and doing Sketch.:smile:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank0194&label=Profile%20views&color=0e75b6&style=flat" alt="shashank0194" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank0194" alt="shashank0194" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shashanks0194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashanks0194" height="30" width="40" /></a>
-<a href="https://instagram.com/shashank0194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashank0194" height="30" width="40" /></a>
-</p>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-236799?style=flat&logo=redux)
+
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashank0194&show_icons=true&locale=en&layout=compact" alt="shashank0194" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashank0194&show_icons=true&locale=en" alt="shashank0194" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank0194&" alt="shashank0194" /></p>
+
+<br/>
+<h3>&nbsp;Visit my portfolio </h3>
+&nbsp;&nbsp;<a href="https://shashankshekharsingh.herokuapp.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio-Shashank-blue?style=flat-square&logo=google-chrome"></a><br/>
+
+<h3>&nbsp;Connect with Me </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/shashanks0194/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shashank-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:shashank0194@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Shashank-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+#### &nbsp;&nbsp; Thank you for stopping by.
+
+⭐️ From [Shashank Shekhar Singh](https://github.com/shashank0194)
